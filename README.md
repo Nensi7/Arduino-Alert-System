@@ -24,7 +24,7 @@ This project demonstrates a multi-component Arduino setup using a **16x2 LCD dis
 
 ## 📷 Circuit Diagram
 
-![Circuit Diagram](https://www.tinkercad.com/things/iQN20GHtDGS-swanky-bojo-jarv?sharecode=6TLBV-NBxtuh2iza-bZzwzHXdXAG9YAf1Hvhx79JYoM)
+![Circuit Diagram]  (https://www.tinkercad.com/things/iQN20GHtDGS-swanky-bojo-jarv?sharecode=6TLBV-NBxtuh2iza-bZzwzHXdXAG9YAf1Hvhx79JYoM)
 
 > You can also open and simulate this project on Tinkercad.
 
